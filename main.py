@@ -1,1 +1,3 @@
-print("Hello world")
+from func import outputMessage
+
+outputMessage("Hello world")
